@@ -1,18 +1,6 @@
 <html>
 
-<!–     –>
-<style>
-table{font-family: BankGothic;
-width:50%;}
-td, th {text-align : left;}
-body{
-background: url(1.png) no-repeat center ;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-}
-</style>
+
 
 
 
