@@ -2,11 +2,7 @@
 
 <body>
 
-<style>
-table{font-family: BankGothic;
-width:50%;}
-td, th {text-align : left;}>
-</style>
+
 
 
 <table>
