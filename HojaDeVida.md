@@ -59,11 +59,11 @@ capacidad en la toma de decisiones y tranquilidad para el trabajo en equipo. </t
 <br>
 <table>
 <tr>
-<th><h4><a href="estudios.html" target="_self">Estudios</a></h4></th>
+<th><h4><a href="https://github.com/BrandonR30/BrandonRod/blob/master/Estudios.md" target="_self">Estudios</a></h4></th>
 
-<th><h4><a href="ExperienciaLaboral.html" target="_self">Experiencia Laboral</a></h4></th>
+<th><h4><a href="https://github.com/BrandonR30/BrandonRod/blob/master/ExperienciaLaboral.md" target="_self">Experiencia Laboral</a></h4></th>
 
-<th><h4><a href="Referencias.html" target="_self">Referencias</a></h4></th>
+<th><h4><a href="https://github.com/BrandonR30/BrandonRod/blob/master/Referencias.md" target="_self">Referencias</a></h4></th>
 </table>
 
 
