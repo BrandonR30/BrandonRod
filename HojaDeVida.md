@@ -10,7 +10,7 @@
 
 <table>
 
-<h1>Hoja de vida</h1><div align="center"><img src="https://github.com/BrandonR30/BrandonRod/blob/master/Foto.PNG" width="7%"/></div>
+<h1>Hoja de vida</h1><div align="center"><img src="https://github.com/BrandonR30/BrandonRod/blob/master/Foto.PNG" width="10%"/></div>
 
   <tr>
     <th>Nombre</th>
