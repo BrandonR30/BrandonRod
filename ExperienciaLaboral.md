@@ -27,6 +27,6 @@
   
 </table>
 
-<a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a>
+<a href="https://github.com/BrandonR30/BrandonRod/blob/master/HojaDeVida.md" title="Ir la página anterior">Volver</a>
 
 </html>
