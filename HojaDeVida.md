@@ -69,7 +69,7 @@ capacidad en la toma de decisiones y tranquilidad para el trabajo en equipo. </t
 
 <br>
 
-<a title="twitter" href="https://www.twitter.com"><img src="twitter.png" width="5%" alt="twitter"></a>
+<a title="twitter" href="https://www.twitter.com"><img src="https://github.com/BrandonR30/BrandonRod/blob/master/Twitter.png" width="5%" alt="twitter"></a>
 </body>
 
 </html>
